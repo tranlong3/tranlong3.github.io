@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Long Vu Tran"
+author: "Long Tran"
+description: "created by modification of Niklas Buschmann's template"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
